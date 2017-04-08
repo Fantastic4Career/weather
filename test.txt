@@ -1,0 +1,393 @@
+[
+  {
+    "location": {
+      "name": "San Diego, CA",
+      "lat": "32.716",
+      "long": "-117.162",
+      "timezone": "-7",
+      "alert": "",
+      "degreetype": "F",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "63",
+      "skycode": "28",
+      "skytext": "Mostly Cloudy",
+      "date": "2017-04-08",
+      "observationtime": "12:30:00",
+      "observationpoint": "San Diego, CA",
+      "feelslike": "63",
+      "humidity": "73",
+      "winddisplay": "3 mph Southwest",
+      "day": "Saturday",
+      "shortday": "Sat",
+      "windspeed": "3 mph",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/28.gif"
+    },
+    "forecast": [
+      {
+        "low": "55",
+        "high": "69",
+        "skycodeday": "29",
+        "skytextday": "Partly Cloudy",
+        "date": "2017-04-07",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": ""
+      },
+      {
+        "low": "58",
+        "high": "68",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-08",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "10"
+      },
+      {
+        "low": "57",
+        "high": "70",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-09",
+        "day": "Sunday",
+        "shortday": "Sun",
+        "precip": "0"
+      },
+      {
+        "low": "58",
+        "high": "71",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-10",
+        "day": "Monday",
+        "shortday": "Mon",
+        "precip": "0"
+      },
+      {
+        "low": "58",
+        "high": "70",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-11",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": "0"
+      }
+    ]
+  }
+][
+  {
+    "location": {
+      "name": "New York, NY",
+      "lat": "40.782",
+      "long": "-73.832",
+      "timezone": "-4",
+      "alert": "",
+      "degreetype": "F",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "53",
+      "skycode": "32",
+      "skytext": "Sunny",
+      "date": "2017-04-08",
+      "observationtime": "15:30:00",
+      "observationpoint": "New York, NY",
+      "feelslike": "53",
+      "humidity": "33",
+      "winddisplay": "11 mph Northwest",
+      "day": "Saturday",
+      "shortday": "Sat",
+      "windspeed": "11 mph",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/32.gif"
+    },
+    "forecast": [
+      {
+        "low": "38",
+        "high": "52",
+        "skycodeday": "31",
+        "skytextday": "Clear",
+        "date": "2017-04-07",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": ""
+      },
+      {
+        "low": "45",
+        "high": "55",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-08",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "0"
+      },
+      {
+        "low": "53",
+        "high": "63",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-09",
+        "day": "Sunday",
+        "shortday": "Sun",
+        "precip": "0"
+      },
+      {
+        "low": "60",
+        "high": "69",
+        "skycodeday": "34",
+        "skytextday": "Mostly Sunny",
+        "date": "2017-04-10",
+        "day": "Monday",
+        "shortday": "Mon",
+        "precip": "0"
+      },
+      {
+        "low": "60",
+        "high": "75",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-11",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": "0"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "New York, NY",
+      "lat": "40.714",
+      "long": "-74.006",
+      "timezone": "-4",
+      "alert": "",
+      "degreetype": "F",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "57",
+      "skycode": "32",
+      "skytext": "Sunny",
+      "date": "2017-04-08",
+      "observationtime": "15:15:00",
+      "observationpoint": "New York, NY",
+      "feelslike": "57",
+      "humidity": "23",
+      "winddisplay": "8 mph West",
+      "day": "Saturday",
+      "shortday": "Sat",
+      "windspeed": "8 mph",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/32.gif"
+    },
+    "forecast": [
+      {
+        "low": "37",
+        "high": "50",
+        "skycodeday": "29",
+        "skytextday": "Partly Cloudy",
+        "date": "2017-04-07",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": ""
+      },
+      {
+        "low": "42",
+        "high": "54",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-08",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "0"
+      },
+      {
+        "low": "52",
+        "high": "61",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-09",
+        "day": "Sunday",
+        "shortday": "Sun",
+        "precip": "0"
+      },
+      {
+        "low": "59",
+        "high": "72",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-10",
+        "day": "Monday",
+        "shortday": "Mon",
+        "precip": "0"
+      },
+      {
+        "low": "60",
+        "high": "75",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-11",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": "0"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Manhattan, NY",
+      "lat": "40.783",
+      "long": "-73.966",
+      "timezone": "-4",
+      "alert": "",
+      "degreetype": "F",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "53",
+      "skycode": "32",
+      "skytext": "Sunny",
+      "date": "2017-04-08",
+      "observationtime": "15:40:00",
+      "observationpoint": "Manhattan, NY",
+      "feelslike": "53",
+      "humidity": "32",
+      "winddisplay": "12 mph Northwest",
+      "day": "Saturday",
+      "shortday": "Sat",
+      "windspeed": "12 mph",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/32.gif"
+    },
+    "forecast": [
+      {
+        "low": "36",
+        "high": "50",
+        "skycodeday": "29",
+        "skytextday": "Partly Cloudy",
+        "date": "2017-04-07",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": ""
+      },
+      {
+        "low": "43",
+        "high": "54",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-08",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "0"
+      },
+      {
+        "low": "53",
+        "high": "64",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-09",
+        "day": "Sunday",
+        "shortday": "Sun",
+        "precip": "0"
+      },
+      {
+        "low": "58",
+        "high": "70",
+        "skycodeday": "34",
+        "skytextday": "Mostly Sunny",
+        "date": "2017-04-10",
+        "day": "Monday",
+        "shortday": "Mon",
+        "precip": "0"
+      },
+      {
+        "low": "57",
+        "high": "74",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-11",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": "0"
+      }
+    ]
+  },
+  {
+    "location": {
+      "name": "Downtown, NY",
+      "lat": "40.721",
+      "long": "-73.998",
+      "timezone": "-4",
+      "alert": "",
+      "degreetype": "F",
+      "imagerelativeurl": "http://blob.weather.microsoft.com/static/weather4/en-us/"
+    },
+    "current": {
+      "temperature": "57",
+      "skycode": "32",
+      "skytext": "Sunny",
+      "date": "2017-04-08",
+      "observationtime": "15:15:00",
+      "observationpoint": "Downtown, NY",
+      "feelslike": "57",
+      "humidity": "23",
+      "winddisplay": "8 mph West",
+      "day": "Saturday",
+      "shortday": "Sat",
+      "windspeed": "8 mph",
+      "imageUrl": "http://blob.weather.microsoft.com/static/weather4/en-us/law/32.gif"
+    },
+    "forecast": [
+      {
+        "low": "37",
+        "high": "50",
+        "skycodeday": "29",
+        "skytextday": "Partly Cloudy",
+        "date": "2017-04-07",
+        "day": "Friday",
+        "shortday": "Fri",
+        "precip": ""
+      },
+      {
+        "low": "42",
+        "high": "54",
+        "skycodeday": "32",
+        "skytextday": "Sunny",
+        "date": "2017-04-08",
+        "day": "Saturday",
+        "shortday": "Sat",
+        "precip": "0"
+      },
+      {
+        "low": "52",
+        "high": "61",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-09",
+        "day": "Sunday",
+        "shortday": "Sun",
+        "precip": "0"
+      },
+      {
+        "low": "59",
+        "high": "72",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-10",
+        "day": "Monday",
+        "shortday": "Mon",
+        "precip": "0"
+      },
+      {
+        "low": "60",
+        "high": "75",
+        "skycodeday": "30",
+        "skytextday": "Partly Sunny",
+        "date": "2017-04-11",
+        "day": "Tuesday",
+        "shortday": "Tue",
+        "precip": "0"
+      }
+    ]
+  }
+]
